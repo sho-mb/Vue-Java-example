@@ -13,7 +13,7 @@ use command on terminal in dir
 - o to open dev server
 
 # Attention
-Backend need to run at same time so you need to IDE to run them.
+Backend need to run at same time so you need 2 IDE to run them.
 
 # Lib
 Using lib "axios" to do http request to server side.
